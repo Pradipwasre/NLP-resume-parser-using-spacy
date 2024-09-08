@@ -16,6 +16,6 @@
   "bilstm_depth":0,
   "self_attn_depth":0,
   "conv_depth":4,
-  "conv_window":4,
+  "conv_window":1,
   "embed_size":2000
 }
