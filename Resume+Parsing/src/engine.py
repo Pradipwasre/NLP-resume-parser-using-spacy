@@ -28,4 +28,3 @@ predict_model.predict("../output/")
 #print(test.head())
 
 
-print("hello world!")
